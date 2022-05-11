@@ -1,5 +1,6 @@
 <div id="<%= dom_id post %>">
-  <h3><%= post.title %></h3>
-  <p><%= pluralize(post.views, "view") %></p>
-  <div><%= post.body %></div>
+	<h3><%= post.title %></h3>
+	<p>Posted by <%= post.user.email %></p>
+	<p><%= pluralize(post.views, "view") %></p>
+	<div><%= post.body %></div>
 </div>
