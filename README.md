@@ -1,5 +1,13 @@
 # Rails Blog
 
+## About
+
+This is a web blog that allow users to
+
+-  Authenticate (eg. login, logout, register)
+-  Create, read, update, delete posts
+-  Create, read, update, delete comments
+
 ## Install
 
 ### Clone the repository
