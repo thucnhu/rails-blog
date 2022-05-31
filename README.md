@@ -8,6 +8,8 @@ This is a web blog that allow users to
 -  Create, read, update, delete posts
 -  Create, read, update, delete comments
 
+[Demo](https://youtu.be/WJT3cSf32sQ)
+
 ## Install
 
 ### Clone the repository
